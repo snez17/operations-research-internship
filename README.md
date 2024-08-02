@@ -1,5 +1,5 @@
 Hi everyone,
-I completed the internship in Operations Research held in June and July 2024. /n
+I completed the internship in Operations Research held in June and July 2024.
 Let me introduce 3 projects from there:
 
 **1. next best offer**
