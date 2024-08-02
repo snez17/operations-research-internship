@@ -17,6 +17,6 @@ Let me introduce 3 projects from there:
 - keywords: graph theory, nx, greedy equivalence search algorithm
 - description: we should investigate causal structures and their robustness on a given dataframe
 
-All data are syntetic.
+All data are synthetic.
 
 Enjoy!
