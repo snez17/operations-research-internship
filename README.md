@@ -1,23 +1,10 @@
-Hi everyone,
-I completed the internship in Operations Research held in June and July 2024.
+During my Operations Research internship (June-July 2024), I tackled three projects using mathematical modeling and optimization techniques:
 
-Let me introduce 3 projects from there:
+**Next Best Offer**: Maximized marketing campaign margin in the banking sector by optimally matching customer actions (call/SMS) and products (credit/credit card) using Pyomo (linear programming) and calibrating results.
 
-**1. next best offer**
-- branch & industry: marketing in banking
-- keywords: pyomo solver, linear programming, calibration curve 
-- description: we should maximize margin by matching target action (call or sms) and product (credit or credit card) to clients based on their preferences with the limitation on the marketing budget
+**Price Optimization**: Increased revenue for a retail company by setting optimal prices for five products using Pyomo (non-linear mixed-integer optimization) and elasticity-based pricing, while respecting price deviation constraints.
 
-**2. price optimization**
-- branch & industry: marketing in retail 
-- keywords: pyomo solver, non linear mixed integer optimization, elasticity based pricing
-- description: we should maximize revenue by setting price on 5 products with the limitation on price deviation from seasonal price 
+**Causal Inference**: Investigated and analyzed causal structures within a synthetic FMCG dataset using graph theory (NetworkX) and the Greedy Equivalence Search (GES) algorithm to understand variable relationships and robustness.
 
-**3. causal inference**
-- branch & industry: marketing in fmcg
-- keywords: graph theory, nx, greedy equivalence search algorithm
-- description: we should investigate causal structures and their robustness on a given dataframe
 
-All data are synthetic.
-
-Enjoy!
+All data used were synthetically generated. 
